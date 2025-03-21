@@ -18,7 +18,7 @@ const App = () => (
     <Projects />
     <Skills />
     <Contact />
-    <footer className="relative bottom-0 left-0 w-full py-2 text-center bg-black text-white text-lg">
+    <footer className="relative opacity-80 bottom-0 left-0 w-full py-2 text-center bg-black text-white text-lg">
       Copyright © {new Date().getFullYear()} MJ
     </footer>
   </div>
