@@ -5,23 +5,22 @@ const Projects = () => {
   const projects = [
     {
       title: 'Scale in',
-      description: 'Well-structured Project with React.js and Tailwind css',
+      description: 'Well-structured Token investing Project with React.js and Tailwind css',
       image: '/images/project1.png', // Replace with your image path
       url: 'https://scale-in.com/', // Replace with your project URL
     },
-    // {
-    //   title: 'Project Title 2',
-    //   description: 'Another project with a different tech stack, solving a unique problem.',
-    //   image: '/images/project2.png', // Replace with your image path
-    //   url: 'https://example.com/project2', // Replace with your project URL
-    // },
-    // {
-    //   title: 'Project Title 3',
-    //   description: 'A third project showcasing my skills in a specific area.',
-    //   image: '/images/project3.png', // Replace with your image path
-    //   url: 'https://example.com/project3', // Replace with your project URL
-    // },
-    // Add more projects as needed
+    {
+      title: 'Project Title 2',
+      description: 'Simple Dark Theme for Full Stack deveolpers.',
+      image: '/images/project2.png', // Replace with your image path
+      url: 'https://example.com/project2', // Replace with your project URL
+    },
+    {
+      title: 'Project Title 3',
+      description: 'Solana Blockchian Presale Site, Smart Design.',
+      image: '/images/project3.png', // Replace with your image path
+      url: 'https://example.com/project3', // Replace with your project URL
+    },
   ];
 
   return (
