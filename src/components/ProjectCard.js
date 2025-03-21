@@ -11,14 +11,14 @@ const ProjectCard = ({ title, description, image, url }) => (
     )}
     <h3 className="text-xl font-semibold text-white mb-4">{title}</h3>
     <p className="text-white mb-4">{description}</p>
-    <a
+    {/* <a
       href={url}
       target="_blank"
       rel="noopener noreferrer"
       className="text-blue-600 hover:underline"
     >
       View Project
-    </a>
+    </a> */}
   </div>
 );
 
