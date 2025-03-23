@@ -10,13 +10,13 @@ const Projects = () => {
       url: 'https://scale-in.com/', // Replace with your project URL
     },
     {
-      title: 'Project Title 2',
+      title: 'Full-stack Dev Assistant',
       description: 'Simple Dark Theme for Full Stack deveolpers.',
       image: '/images/project2.png', // Replace with your image path
       url: 'https://example.com/project2', // Replace with your project URL
     },
     {
-      title: 'Project Title 3',
+      title: 'Token Solutions',
       description: 'Solana Blockchian Presale Site, Smart Design.',
       image: '/images/project3.png', // Replace with your image path
       url: 'https://example.com/project3', // Replace with your project URL
